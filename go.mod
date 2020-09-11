@@ -69,3 +69,5 @@ replace k8s.io/kubectl => k8s.io/kubectl v0.19.1
 replace k8s.io/klog => k8s.io/klog v0.4.0
 
 replace k8s.io/kubernetes => k8s.io/kubernetes v1.19.1
+
+replace github.com/digitalocean/godo => github.com/anitgandhi/godo v1.32.1-0.20201002210746-683a859d49bf
